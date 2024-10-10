@@ -8,9 +8,9 @@ route:
 receivers:
   - name: 'Gmail Alert'
     email_configs:
-    - to: "gabimiron96@gmail.com"
-      from: "gabimiron96@gmail.com"
+    - to: "exemple@gmail.com"
+      from: "exemple@gmail.com"
       smarthost: smtp.gmail.com:587
-      auth_username: "gabimiron96@gmail.com"
-      auth_identity: "gabimiron96@gmail.com"
-      auth_password: "rfaa iazh igqi fzgv"
+      auth_username: "exemple@gmail.com"
+      auth_identity: "exemple@gmail.com"
+      auth_password: "rfaafdrgthth"
